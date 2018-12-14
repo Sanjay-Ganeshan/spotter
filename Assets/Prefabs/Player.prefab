@@ -347,7 +347,7 @@ Camera:
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0
-  m_TargetEye: 3
+  m_TargetEye: 0
   m_HDR: 1
   m_AllowMSAA: 1
   m_AllowDynamicResolution: 0
@@ -598,8 +598,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isLeft: 0
-  leftPlayerColor: {r: 0.110137075, g: 0.32034066, b: 0.5188679, a: 0}
-  rightPlayerColor: {r: 0.6132076, g: 0.130162, b: 0.130162, a: 0}
+  leftPlayerColor: {r: 0.110137075, g: 0.32034066, b: 0.5188679, a: 1}
+  rightPlayerColor: {r: 0.6132076, g: 0.130162, b: 0.130162, a: 1}
   TurnSpeed: 60
 --- !u!114 &114592140537506496
 MonoBehaviour:
