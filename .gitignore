@@ -1,0 +1,52 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Library/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+.vs/*
+
+# ================ #
+#       Build      #
+# ================ #
+
+Build/
+
+# ===================== #
+#  Downloadable Assets  #
+# ===================== #
+Assets/*
+!Assets/Scripts
+!Assets/Materials
+!Assets/Prefabs
+!Assets/Scenes
+
+
+# ================ #
+# From Unity Store
+# ================ #
